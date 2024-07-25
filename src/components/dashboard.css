@@ -1,0 +1,25 @@
+.card {
+  background-color: #2b2b2b;
+  color: white;
+  border-radius: 50px;
+}
+.card .title {
+  color: white;
+}
+
+/* @media (max-width: 575.98px) {
+  .dashboard .card {
+    Further adjustments for very small screens
+    margin-bottom: 0.5rem;
+    padding: 0.25rem;
+  }
+
+  .dashboard .card-body {
+    padding: 15px; 
+  }
+} */
+
+/* Additional media query for extra small devices, if necessary */
+/* @media (max-width: 374.98px) { */
+/* Example: Adjustments for extra small devices */
+/* } */

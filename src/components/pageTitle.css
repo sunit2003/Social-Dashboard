@@ -1,0 +1,13 @@
+.pagetitle {
+  margin-top: 20px;
+}
+.pagetitle .breadcrumb .breadcrumb-item {
+  color: white;
+}
+
+.pagetitle .breadcrumb .breadcrumb-item i {
+  font-size: 20px;
+}
+.pagetitle .breadcrumb .breadcrumb-item {
+  color: white;
+}
